@@ -55,7 +55,7 @@ To execute the tutorial, you have two choices:
 
 ### A. Colab (requires Google Account, including GoogleDrive)
 
-1. Download the zip file containing the data from the link provided during the class.
+1. Download the zip file containing the data from [here](https://onedrive.live.com/?id=c78a18fba37b17ea%2152841&cid=C78A18FBA37B17EA)
 2. Extract the zip file.
 3. Upload the folder to your Google Drive
 4. Launch the Jupyter Notebook:
