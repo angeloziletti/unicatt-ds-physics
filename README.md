@@ -71,7 +71,7 @@ The first step is to perform a local installation. After having installed conda 
 
 
     # clone this repository
-    git clone https://github.com/angeloziletti/data-science-physics
+    git clone https://github.com/angeloziletti/unicatt-ds-physics
     # go in the main folder
     cd data-science-physics
 
