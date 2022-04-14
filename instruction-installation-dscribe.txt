@@ -1,0 +1,3 @@
+For windows, this needs to be installed
+
+vs_buildtools__d334146fbddc4b57beb8efd75cef00a5.exe --norestart --passive --downloadThenInstall --includeRecommended --add Microsoft.VisualStudio.Workload.NativeDesktop --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Workload.MSBuildTools

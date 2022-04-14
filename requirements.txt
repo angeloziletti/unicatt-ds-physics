@@ -1,0 +1,8 @@
+umap-learn
+hdbscan
+dscribe
+numpy
+ase
+notebook
+# needed for umap plot
+umap-learn[plot]
